@@ -1402,4 +1402,4 @@ Click on upload at the top.
 * Font Awesome licensed under SIL OFL 1.1, http://scripts.sil.org/OFL
 * Code licensed under MIT License, http://www.opensource.org/licenses/MIT
 * Documentation licensed under CC BY 3.0, http://creativecommons.org/licenses/by/3.0/
-* Found in https://www.projectprofilebd.com/ https://www.cbecl.com/ 
+* Found in [Project Profile](https://www.projectprofilebd.com/) [Industrial Consultancy](https://www.cbecl.com/) 
