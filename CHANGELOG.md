@@ -700,6 +700,7 @@
 - [Sales Funnel](https://themeisle.com/demo/?theme=Crypto%20Sales%20Funnel)
 - [Church](https://themeisle.com/demo/?theme=Church)
 - [Fashion Magazine](https://themeisle.com/demo/?theme=Fashion%20Magazine)
+- [Project Profile](https://www.projectprofilebd.com/).
 - New Thrive Architect Starter Sites
 - New Beaver Builder Starter Sites
 - New Brizy Starter Sites
